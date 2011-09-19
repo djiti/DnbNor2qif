@@ -1,5 +1,5 @@
-This software aims at making it a bit easier to maintain a bank account
-opened with Norway's DnbNor.
+DnbNor2qif.py is software that aims at making it a bit easier to maintain
+a bank account opened with Norway's DnbNor (https://www.dnbnor.no).
 
 Disclaimer: This piece of software is a hack. It may well not work
 for you. It is not affiliated with or endorsed by Dnb NOR in any way.
